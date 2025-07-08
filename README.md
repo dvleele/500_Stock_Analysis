@@ -13,8 +13,9 @@ Công Cụ Sử Dụng
 File trong Dự Án
 
 - Dashboard.pbix : File Power BI chứa dashboard hoàn chỉnh 
-- 500_Stock.ipynb: Notebook tiền xử lý dữ liệu CSV đầu vào 
-- README.md Mô tả dự án chi tiết, dành cho nhà tuyển dụng và cộng đồng
+- 500_Stock.ipynb: Notebook tiền xử lý dữ liệu CSV đầu vào
+- 500_Stock.csv: Dữ liệu
+- README.md Mô tả dự án chi tiết dự án
 
 ---
 Dashboard gồm các thành phần chính:
