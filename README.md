@@ -1,16 +1,15 @@
-Stock Performance Dashboard (2013–2018)
-
-Dự án : Trực quan hóa 505 mã cổ phiếu trên thị trường Mỹ trong giai đoạn 5 năm .
+Dự án : Trực quan hóa 505 mã cổ phiếu trên thị trường Mỹ trong giai đoạn 5 năm (2013–2018) .
 
 ---
 
-Công Cụ & Kỹ Thuật Sử Dụng
+
+Công Cụ Sử Dụng
 
 Python: Làm sạch dữ liệu, xử lý file CSV, sơ lược dữ liệu
 Power BI: Tạo dashboard tương tác
 Data: S&P 500 stock data (Kaggle)
----
 
+---
 File trong Dự Án
 
 Dashboard.pbix : File Power BI chứa dashboard hoàn chỉnh 
@@ -18,7 +17,6 @@ Dashboard.pbix : File Power BI chứa dashboard hoàn chỉnh
 README.md Mô tả dự án chi tiết, dành cho nhà tuyển dụng và cộng đồng
 
 ---
-
 Dashboard gồm các thành phần chính:
 
 - Bộ lọc: Tùy chọn khoảng thời gian từ 2013–2018
@@ -30,7 +28,7 @@ Dashboard gồm các thành phần chính:
 - Bảng Volume Spike: Ticker có khối lượng giao dịch cao nhất toàn kỳ
 
 ---
-
+![image](https://github.com/user-attachments/assets/b76dd712-25cd-475f-84b4-c113e2f72f14)
 Insights
 
 1. Cổ phiếu tăng trưởng ổn định
@@ -48,6 +46,6 @@ Insights
 - Hầu hết các mã cổ phiếu có khối lượng giao dịch giảm mạnh trong năm 2018.
 - Cần theo dõi thêm các yếu tố vĩ mô (lãi suất, chiến tranh thương mại...) để lý giải xu hướng này.
 
-![image](https://github.com/user-attachments/assets/b76dd712-25cd-475f-84b4-c113e2f72f14)
+
 
 
